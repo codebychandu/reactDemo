@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calculator {
+    width: 200px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  
+  .heading{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+  }

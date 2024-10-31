@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.todo-container{
+    
+    text-align: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.item{
+    text-align: left;
+    
+}
+.btn-danger{
+    margin-left: 76px; 
+}
+.btn{
+    min-width: 80px;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 50px 0px;
+    background-color: rgb(214, 209, 179);
+}
+input{
+    width: 100%;
+}
+
+.row-item{
+    margin: 10px 5px;
+}
